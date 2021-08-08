@@ -45,7 +45,7 @@ class Ui_MainWindow(object):
         self.pushButton = QtWidgets.QPushButton(self.groupBox_2)
         self.pushButton.setGeometry(QtCore.QRect(304, 60, 101, 51))
         icon1 = QtGui.QIcon()
-        icon1.addPixmap(QtGui.QPixmap("icon/src=http___img.51miz.com_Element_00_77_55_01_8723c233_E775501_6c3efb31.png!_quality_90_unsharp_true_compress_true_format_png&refer=http___img.51miz.jpg"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
+        icon1.addPixmap(QtGui.QPixmap("icon/2.jpg"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
         self.pushButton.setIcon(icon1)
         self.pushButton.setIconSize(QtCore.QSize(36, 36))
         self.pushButton.setAutoDefault(True)
